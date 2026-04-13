@@ -1,3 +1,5 @@
+🌏 [한국어](README.ko.md)
+
 # broodwar.live brand
 
 Brand assets for the broodwar.live project. All assets are rendered from the actual site CSS using Orbitron 900 via headless Chrome.
