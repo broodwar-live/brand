@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" fill="none">
+  <rect width="512" height="512" rx="64" fill="#F59E0B"/>
+  <style>
+    .mono { font-family: 'SF Mono', 'Fira Code', 'JetBrains Mono', 'Cascadia Code', monospace; font-weight: 700; font-size: 240px; }
+  </style>
+  <text x="56" y="340" class="mono" fill="#18181B">bw</text>
+  <circle cx="432" cy="416" r="24" fill="#18181B"/>
+</svg>

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 80" fill="none">
+  <style>
+    .brand { font-family: 'SF Mono', 'Fira Code', 'JetBrains Mono', 'Cascadia Code', monospace; font-weight: 700; font-size: 48px; }
+    .tld { font-family: 'SF Mono', 'Fira Code', 'JetBrains Mono', 'Cascadia Code', monospace; font-weight: 400; font-size: 48px; }
+  </style>
+  <text x="0" y="56" class="brand" fill="#E4E4E7">broodwar</text>
+  <text x="345" y="56" class="tld" fill="#F59E0B">.live</text>
+</svg>
